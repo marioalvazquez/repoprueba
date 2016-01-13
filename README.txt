@@ -1,1 +1,1 @@
-hola mundo
+Esta es una documentación más amplia acerca del documento.
